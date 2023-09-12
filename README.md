@@ -1,2 +1,3 @@
-# maven_project
-hello_world
+# maven-project
+
+Demo Maven Project
